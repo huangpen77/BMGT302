@@ -1,2 +1,6 @@
-for i in range(1, 10):
-    print("The square of", i, "is", i*i)
+# This is a test
+
+for i in range(10):
+    print("Hello World!")
+
+print("This is a string.", 'So is this.')
